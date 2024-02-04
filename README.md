@@ -1,1 +1,2 @@
 # IoT-Live-Data-Streaming
+## The primary objective of this project was to make a pipeline for the real-time streaming of sensor data originating from Internet of Things (IoT) devices. Synthetic sensor data was created using the MQTT protocol and the data was subsequently disseminated to a broker environment to facilitate monitoring, analysis, a real-time widget and alarm notifications. The key technoilogies used were Mosquitto, ThingsBoard, Docker and Firebase
